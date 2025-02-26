@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/blockchain-sniping-bot.git
+   git clone https://github.com/mohama56/blockchain-sniping-bot.git
    cd blockchain-sniping-bot
    ```
 2. **Install dependencies:**
