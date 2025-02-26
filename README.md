@@ -62,6 +62,9 @@ blockchain-sniping-bot/
 └── .env                # Environment variables (excluded from GitHub)
 ```
 
+## Credits & Acknowledgments
+Special thanks to **Code & Play** for providing valuable tips and insights that helped improve this bot. Their resources have been incredibly useful for refining its functionality. Check out their **Patreon page** for more great content: [Code & Play Patreon](https://www.patreon.com/c/codeandplay/posts)
+
 ## License
 This project is licensed under the **ISC License**. See the LICENSE file for details.
 
